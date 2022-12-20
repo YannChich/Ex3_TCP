@@ -14,7 +14,7 @@
 
 #define SERVER_PORT 5655
 #define SERVER_IP_ADDRESS "127.0.0.1"
-#define BUFFER 5000
+#define BUFFER 1024
 
 int main()
 {   
